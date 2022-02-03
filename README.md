@@ -5,8 +5,7 @@ is almost always lossy, and can introduce errors into data. A measure like this 
 verify the correctness of data (but cannot guarentee that it is correct). More details
 [here](http://en.wikipedia.org/wiki/Checksum).
 
-
-## demo
+<br>
 
 <img src="https://raw.githubusercontent.com/qb40/filebytesum/gh-pages/0/image/0.png" width="70%"><br/>
 Enter `Filename` whose byte sum is required.
